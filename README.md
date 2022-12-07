@@ -8,6 +8,7 @@ I think our project is ambitious because I've never seen anyone try to put accel
 ## Diagrams of your planned design (CAD or hand sketched)
 ![smartwater](images/smartwater.png)
 
+
 At first we were planning on going on onshape and building a water bottle out of CAD but we've decided to use a real water bottle and just add the wires and stuff in there, Hopefully this plan will work.
 ## Bill of materials for the overall project
  Smart water bottle  and Circuit board. 
