@@ -11,7 +11,7 @@ At first we were planning on going on onshape and building a water bottle out of
 ## Bill of materials for the overall project
 We don't know all of the materials we'll be using but for now all we know is a smart water bottle.
 ## Risk Mitigation
-One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a water bottle is being used so I don't know how this is going to work out for sure. 
+One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a water bottle is being used so I don't know how this is going to work out for sure. We have to fit the curcuit board in the water bottle but I don't think that's going to a problem with weight, I think it's just going to take up a lot of space and other parts might be crowded inside of the rocket.
 
 ## Develop an initial design (pencil and paper, CAD, etc.)
 ## Construct a prototype
