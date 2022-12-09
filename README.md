@@ -11,7 +11,7 @@ I think our project is ambitious because I've never seen anyone try to put accel
 
 At first we were planning on going on onshape and building a 2 liter bottle out of CAD but we've decided to use a real two 2 liter bottle and just add the wires and stuff in there, Hopefully this plan will work.
 ## Bill of materials for the overall project
- 2 2 liter soda bottles   and Circuit board. 
+two 2 liter soda bottles and Circuit board. 
 ## Risk Mitigation
 One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a 2 liter bottle is being used so I don't know how this is going to work out for sure. We were going to use a little water bottle but we need more space so I think that soleved one problem. We have the space now, It's just things might move around more because trhere's lots of space and it probably won't stay still. 
 
