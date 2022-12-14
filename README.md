@@ -1,6 +1,6 @@
 # Pi-In-The-Sky planning
 
-We're going to be making a rocket/water rocket for our PI IN THE SKY project.
+We're going to be making a rocket/water rocket for our PI IN THE SKY project. Success will be when we are able to launch this rocket out of the air cannon, have the pico capture the mph we went througout the launch, and land safe and intact. We consider using a parachute if time is allowed. 
 
 
 ## Scope.  Is your project appropriately ambitious? 
