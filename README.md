@@ -23,5 +23,5 @@ We don't have code right now as we're just worrying on the design, but it will b
 # Refine/optimize your design
 # Present finished product
 # Schedule 
-## 1/9-1/13 (have parachuete done)
+## 1/9-1/13 (have parachute done)
 ## 1/16-1/20(have prototype done)
