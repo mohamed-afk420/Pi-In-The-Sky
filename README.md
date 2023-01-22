@@ -1,17 +1,25 @@
 # Pi-In-The-Sky planning
 
-We're going to be making a rocket/water rocket for our PI IN THE SKY project. Success will be when we are able to launch this rocket out of the air cannon, have the pico capture the mph we went througout the launch, and land safe and intact.
+# Project Proposal
+
+We're going to be making a rocket/water rocket for our PI IN THE SKY project. Success will be when we are able to launch this rocket out of the air cannon, have the pico capture the mph we went througout the launch, capture the highest mph and present it on the OLED screen, deploy a parachute to slow ita fall, and land safe and intact.
 
 
-# Scope.  Is your project appropriately ambitious? 
-I think our project is ambitious because I've never seen anyone try to put accelerometers and all those other things inside of a soda bottle before, of course it's going to be a challenge try to keep all the things in there and to make sure it's not too heavy but we'll figure it out. 
-# Diagrams of your planned design (CAD or hand sketched)
-![soda](images/soda.png)
+## Scope.  Is your project appropriately ambitious? 
+I think our project is ambitious because I've never seen anyone try to put accelerometers and all those other things inside of a flimsy soda bottle before, of course it's going to be a challenge try to keep all the things in there and to make sure it's not too heavy but we'll figure it out. this along with the parachute and OLED screen demonstrate an ambitious plan for our project. 
+
+## Diagrams of your planned design (CAD or hand sketched)
+![soda](images/soda.png) 
+![soda](https://github.com/mohamed-afk420/Pi-In-The-Sky/blob/21d1ea0e41bb65c42dcc35c91a986581b5ae2d8e/images/th.jpg)
+
+[CAD](https://cvilleschools.onshape.com/documents/3e4d9e6db1d7c213b08b98f4/w/cb6daed488f8fdf9e05e1dfa/e/fa48a3654d15ae5b2bab8127)
 
 
-At first we were planning on going on onshape and building a 2 liter bottle out of CAD but we've decided to use a real two 2 liter bottle and just add the wires and stuff in there, Hopefully this plan will work.
+At first we were planning on going on onshape and building a 2 liter bottle out of CAD but we've decided to use a real two 2 liter bottle and just add the wires and stuff in there, Hopefully this plan will work considering its lack of structure and protection. we also have a parachute that will be deploying. 
 # Bill of materials for the overall project
-two 2 liter soda bottles, Circuit board, Duct tape, card boards for the wings and parachuete made with plastic bag and strings. 
+two 2 liter soda bottles, Circuit board, Duct tape, card boards for the wings and parachuete made with plastic bag and strings. (prototype)
+
+Two 2 liter soda bottles, circuit board, duct tape, 3D modeled and designed wings with screw holes, plastic and strings for our parachute. (true design)
 # Risk Mitigation
 One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a 2 liter bottle is being used so I don't know how this is going to work out for sure. We were going to use a little water bottle but we need more space so I think that solved one problem. We have the space now, It's just things might move around more because there's lots of space and it probably won't stay still.
 
