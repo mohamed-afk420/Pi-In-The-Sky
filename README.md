@@ -19,9 +19,9 @@ At first we were planning on going on onshape and building a 2 liter bottle out 
 # Bill of materials for the overall project
 two 2 liter soda bottles, Circuit board, Duct tape, card boards for the wings and parachuete made with plastic bag and strings. (prototype)
 
-Two 2 liter soda bottles, circuit board, duct tape, 3D modeled and designed wings with screw holes, plastic and strings for our parachute. (true design)
+Two 2 liter soda bottles, circuit board, duct tape, 3D modeled and designed wings with screw holes, plastic and strings for our parachute. (main  design)
 # Risk Mitigation
-One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a 2 liter bottle is being used so I don't know how this is going to work out for sure. We were going to use a little water bottle but we need more space so I think that solved one problem. We have the space now, It's just things might move around more because there's lots of space and it probably won't stay still.
+One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a 2 liter bottle is being used so I don't know how this is going to work out for sure. We were going to use a little water bottle but we need more space so I think that solved one problem. We have the space now, It's just things might move around more because there's lots of space and it probably won't stay still. Risk mitigation may include making sure there is enough open space around the launch, making sure everyone involved has the proper PPE (ex: safety glasses), or even that the materials (rocket motors, hairspray, etc) are stored safely.
 
 # Develop an initial design (pencil and paper, CAD, etc.)
 [CAD](https://cvilleschools.onshape.com/documents/3e4d9e6db1d7c213b08b98f4/w/cb6daed488f8fdf9e05e1dfa/e/c9bda002f40a3f28976983cc)
@@ -34,3 +34,4 @@ We don't have code right now as we're just worrying on the design, but it will b
 ## 1/9-1/13 
 parachute is done along with code to test mph, stil trying to figure out how to capture the highest mph and present it.
 ## 1/16-1/20(have prototype done)
+code is still being worked on, parachute has been redesigned and made better. 
