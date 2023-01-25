@@ -33,4 +33,4 @@ We don't have code right now as we're just worrying on the design, but it will b
 # Schedule 
 ## 1/16-1/20(have parachute done)
 code is still being worked on, parachute has been redesigned and made better. 
-## 1/24-1/27 (Have prototype done)
+## 1/24-1/27 (Finish the prototype)
