@@ -31,7 +31,6 @@ We don't have code right now as we're just worrying on the design, but it will b
 # Refine/optimize your design
 # Present finished product
 # Schedule 
-## 1/9-1/13 
-parachute is done along with code to test mph, stil trying to figure out how to capture the highest mph and present it.
-## 1/16-1/20(have prototype done)
+## 1/16-1/20(have parachute done)
 code is still being worked on, parachute has been redesigned and made better. 
+## 1/24-1/27 (Have prototype done)
