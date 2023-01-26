@@ -28,8 +28,10 @@ One big risk is the project being too heavy or just not working. Again, I've nev
 We don't have code right now as we're just worrying on the design, but it will be able to present to us the highest mph that it hit after launch. 
 # Construct a prototype
 # Test your design
+![rocket1](images/rocket1.png)
 # Refine/optimize your design
 # Present finished product
+![rocket2](images/rocket2.png)
 # Schedule 
 ## 1/16-1/20(have parachute done)
 code is still being worked on, parachute has been redesigned and made better. 
