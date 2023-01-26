@@ -27,8 +27,8 @@ One big risk is the project being too heavy or just not working. Again, I've nev
 [CAD](https://cvilleschools.onshape.com/documents/3e4d9e6db1d7c213b08b98f4/w/cb6daed488f8fdf9e05e1dfa/e/c9bda002f40a3f28976983cc)
 We don't have code right now as we're just worrying on the design, but it will be able to present to us the highest mph that it hit after launch. 
 # Construct a prototype
-# Test your design
 ![rocket1](images/rocket1.png)
+# Test your design
 # Refine/optimize your design
 # Present finished product
 ![rocket2](images/rocket2.png)
