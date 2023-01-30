@@ -38,3 +38,5 @@ code is still being worked on, parachute has been redesigned and made better.
 1/25/23- We finished the prototype, We'll test launch it soon, but for now we'll be working on the code and building the circuit board. We'll also need to find out where we're going to put the circuit board, inside the rocket? outside of the rocket? We don't know yet but we'll think about it soon.
 ## 1/27/23 (Launching the prototype)
 We were going to launch today (1/26/23) but the launcher isn't here so we have to wait.
+## 1/30-2/3 
+Launch the prototype a couple of times and have the code working for the altitude. 
