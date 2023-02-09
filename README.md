@@ -28,6 +28,7 @@ One big risk is the project being too heavy or just not working. Again, I've nev
 We don't have code right now as we're just worrying on the design, but it will be able to present to us the highest mph that it hit after launch. 
 # Construct a prototype
 ![rocket1](images/rocket1.png) ![rocket2](images/rocket2.png)
+Prototype complete and ready to launch 
 # Test your design
 # Refine/optimize your design
 # Present finished product
