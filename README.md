@@ -43,3 +43,5 @@ code is still being worked on, parachute has been redesigned and made better.
 We were going to launch today (1/26/23) but the launcher isn't here so we have to wait.
 ## 1/30-2/3 
 Launch the prototype a couple of times and have the code working for the altitude. 
+## 2/10/23-2/16/23
+Have parachute launching properly.
