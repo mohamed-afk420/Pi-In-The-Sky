@@ -32,6 +32,7 @@ We don't have code right now as we're just worrying on the design, but it will b
 Prototype complete and ready to launch.
 # Test your design
 ![para1](images/para1.png) ![para2](images/para2.png)
+We've been launching the bottle rocket for a few days and it's been going well, everything is good except for the parachute. For some reason it won't pop out properly and we have to leave it out in a specific way for it to work or it won't pop out. Also it's a bit wobbly and won't come down slowly.
 # Refine/optimize your design
 # Present finished product
 # Schedule 
