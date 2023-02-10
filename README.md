@@ -32,8 +32,10 @@ We don't have code right now as we're just worrying on the design, but it will b
 Prototype complete and ready to launch.
 # Test your design
 ![para1](images/para1.png) ![para2](images/para2.png)
-We've been launching the bottle rocket for a few days and it's been going well, everything is good except for the parachute. For some reason it won't pop out properly and we have to leave it out in a specific way for it to work or it won't pop out. Also it's a bit wobbly and won't come down slowly.
+
+We've been launching the bottle rocket for a few days and it's been going well, everything is good except for the parachute. For some reason it won't pop out properly and we have to leave it out in a specific way for it to work or it won't pop out. Also it's a bit wobbly and won't come down slowly.we're thinking of making/adding a thinner and better rocket cap to help with the wobble.
 # Refine/optimize your design
+We are adding better and more affective wings, helping with wobble and with hieght, and they're going to be 3D printed instead of cardboard this time.
 # Present finished product
 # Schedule 
 ## 1/16-1/20 (have parachute done)
