@@ -49,4 +49,4 @@ Launch the prototype a couple of times and have the code working for the altitud
 ## 2/6/23-2/9/23
 Launches went well, parachute deployed after changing the way it deployed. flew rather high, 40 feet before parachute deployed but I believe we can improve that. 
 ## 2/10/23-2/16/23
-Have parachute launching properly.
+Have the parachute launching properly and have the 3d printed wings working.
