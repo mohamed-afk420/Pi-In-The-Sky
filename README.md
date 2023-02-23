@@ -49,6 +49,6 @@ Launch the prototype a couple of times and have the code working for the altitud
 ## 2/6/23-2/9/23
 Launches went well, parachute deployed after changing the way it deployed. flew rather high, 40 feet before parachute deployed but I believe we can improve that. 
 ## 2/10/23-2/16/23
-Have the parachute launching properly and have the 3D printed wings working.
+Have the parachute launching properly and have the 3D printed wings working. Changed wings into a ring with slots for disposible wings. Had to measure cardboard so the slits would work. Ring should fit over 2 liter bottle.  
 ## 2/22/23/-3/1/23
-Make slots for the 3D printed part and attach the wings on to it and have a new parachute.
+Make slots for the 3D printed part and attach the wings on to it and have a new parachute. 
