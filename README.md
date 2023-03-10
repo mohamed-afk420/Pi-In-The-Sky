@@ -53,6 +53,6 @@ Have the parachute launching properly and have the 3D printed wings working. Cha
 ## 2/22/23/-3/1/23
 Make slots for the 3D printed part and attach the wings on to it and have a new parachute. Test if disposible wings are the correct choice for our rocket wings. 
 ## 3/2/23-3/10/23
-We had our wing loop 3D printed, and realized it was way too big and way too short. So, we went back through and changed the dimensions of the part on cad and resent it to be printed again.  
+We had our wing loop 3D printed, and realized it was way too big and way too short. So, we went back through and changed the dimensions of the part on cad and resent it to be printed again. Wing loop came back again, and now it is too small. redesigning and testing dimentions took all of friday but we were able to submit before the end of class.
 ## 3/13/23-3/17/23
 With everything done on the project all we need is an effective parachute, the wing loop has been 3D printed to the correct measurements and is working, a working parachute is the last thing before we are completly done with the building part of the project. The code works but we might tweak it to add a thing or two.
