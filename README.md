@@ -37,6 +37,19 @@ We've been launching the bottle rocket for a few days and it's been going well, 
 # Refine/optimize your design
 We are adding better and more affective wings, helping with wobble and with hieght, and they're going to be 3D printed ring to fit around the bottle with slits to slide in disposible cardboard wings. We hope that the ring doesn't break when it hits the ground, considering its been an issue with others projects. 
 # Present finished product
+# Flight Ready by Spring Break
+Milestone Criteria:
+Code: Your code is complete to a point where it can successfully run during the flight, collect data, and save that data to a file onboard the RPi Pico. 
+
+Circuit Board: Your circuit board is fully soldered with the necessary boards for data collection and power supply to the RPi Pico. 
+
+Physical Design: Your CAD design has been translated to the real world. Through 3D printing, laser cutting, or other methods, you have a physical object ready for launch.
+
+Assembly: Everything is ready to go for launch. The circuit board is securely attached. There is nothing stopping you from walking out the door and launching your design. 
+
+Survivability: Your design has a strong possibility of surviving and continuing to function post-flight. It is up to you to convince me that your systems are enough to ensure survival.
+
+Documentation: Your github repo appropriately documents your progress thus far.  
 # Schedule 
 ## 1/16-1/20 (have parachute done)
 code is still being worked on, parachute has been redesigned and made better. 
