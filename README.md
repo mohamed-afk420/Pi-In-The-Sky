@@ -71,4 +71,6 @@ We had our wing loop 3D printed, and realized it was way too big and way too sho
 ## 3/13/23-3/17/23
 With everything done on the project all we need is an effective parachute, the wing loop has been 3D printed to the correct measurements and is working, a working parachute is the last thing before we are completly done with the building part of the project. The code works but we might tweak it to add a thing or two. 
 ## 3/20/23-3/25/23
-launching with the new parachutes this week. soldered everything and are now just testing. Launching went badly, great hieght but not only did the ring for the wings break, but the parachute also refused to deploy as well. 
+launching with the new parachutes this week. soldered everything and are now just testing. Launching went badly, great height but not only did the ring for the wings break, but the parachute also refused to deploy as well. 
+## 3/27/23-3/30/23
+Solder a new board as we messed up on the last one, have the new parachute functioning, the wing loop fitted perfectly as we need to launch after spring break.
