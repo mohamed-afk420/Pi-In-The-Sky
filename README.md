@@ -12,7 +12,7 @@ I think our project is ambitious because I've never seen anyone try to put accel
 ![soda](images/soda.png) 
 ![soda](https://github.com/mohamed-afk420/Pi-In-The-Sky/blob/21d1ea0e41bb65c42dcc35c91a986581b5ae2d8e/images/th.jpg)
 
-[CAD]https://cvilleschools.onshape.com/documents/3e4d9e6db1d7c213b08b98f4/w/cb6daed488f8fdf9e05e1dfa/e/8094d509666b8486e34db21e
+[CAD](https://cvilleschools.onshape.com/documents/3e4d9e6db1d7c213b08b98f4/w/cb6daed488f8fdf9e05e1dfa/e/8094d509666b8486e34db21e)
 
 
 At first we were planning on going on onshape and building a 2 liter bottle out of CAD but we've decided to use a real two 2 liter bottle and just add the wires and stuff in there, Hopefully this plan will work considering its lack of structure and protection. we also have a parachute that will be deploying. 
