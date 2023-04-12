@@ -74,5 +74,6 @@ With everything done on the project all we need is an effective parachute, the w
 launching with the new parachutes this week. soldered everything and are now just testing. Launching went badly, great height but not only did the ring for the wings break, but the parachute also refused to deploy as well. 
 ## 3/27/23-3/30/23
 Solder a new board as we messed up on the last one, have the new parachute functioning, the wing loop fitted perfectly as we need to launch after spring break.
-## 4/10/23- 4/14/23
+## 4/10/23-4/14/23
 This week we need to finish soldering and remove the parachute as its the only thing holding us back right now, the code we have allows us to print the data but now we need to learn how to make it save so we can extract it later. Once we're done with that, we'll be done with the project.
+## 4/17/23-4/21/23
