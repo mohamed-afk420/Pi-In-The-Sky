@@ -77,7 +77,7 @@ Solder a new board as we messed up on the last one, have the new parachute funct
 ## 4/10/23-4/14/23
 This week we need to finish soldering and remove the parachute as its the only thing holding us back right now, the code we have allows us to print the data but now we need to learn how to make it save so we can extract it later. Once we're done with that, we'll be done with the project. Parachute is finally deploying correctly and consistently, and the rocket is shooting very high on every attempt. 
 ## 4/17/23-4/21/23
-
+Get the soldering done this week and attaching the 3D printed hoop.
 ## 4/24/23-4/28/23
 
 ## 5/1/23-5/5/23
