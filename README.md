@@ -81,7 +81,7 @@ Get the soldering done this week and testing last model of the parachute
 ## 4/24/23-4/28/23
 finish up the code and solder the board correctly so that the code can work correctly. 
 ## 5/1/23-5/5/23
-
+We finished the soldering and everything works, all we have to do is assemble the parts and we'll be done.
 ## 5/8/23-5/12/23
 
 ## 5/15/23-5/19/23
