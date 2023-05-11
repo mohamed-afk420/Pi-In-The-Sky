@@ -83,7 +83,7 @@ finish up the code and solder the board correctly so that the code can work corr
 ## 5/1/23-5/5/23
 We finished the soldering and everything works, all we have to do is assemble the parts and we'll be done. We're testing launching on Thursday. it launched perfectly, reaching a peak of 15 meters with the parachute deploying perfectly.
 ## 5/8/23-5/12/23
-Today we're making the code print the data instead of writing it as we need to print, save and read the data that's collected from the launches.
+On Tursday we've completed all of the code and soldered the switch on the circuitboard. Everything is complete and the data is on the spreadsheet, Tomorrow we'll launch the rocket and get better results. 
 ## 5/15/23-5/19/23
 
 ## 5/22/23-5/26/23
