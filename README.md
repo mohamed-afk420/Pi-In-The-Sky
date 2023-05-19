@@ -91,3 +91,53 @@ On Tursday we've completed all of the code and soldered the switch on the circui
 ## 5/29/23-6/2/23
 
 ## 6/5/23-6/9/23
+
+```python
+
+import time
+import board
+import adafruit_displayio_ssd1306
+import adafruit_mpl3115a2
+import busio
+import terminalio
+import displayio
+from adafruit_display_text import label
+
+displayio.release_displays()
+sda_pin0 = board.GP0
+scl_pin0 = board.GP1
+i2c0 = busio.I2C(scl_pin0, sda_pin0)
+sensor = adafruit_mpl3115a2.MPL3115A2(i2c0)
+sensor.sealevel_pressure = 102250
+
+sda_pin1 = board.GP14
+scl_pin1 = board.GP15
+i2c1 = busio.I2C(scl_pin1, sda_pin1)
+
+
+displayio.release_displays()
+display_bus = displayio.I2CDisplay(i2c1, device_address=0x3d, reset=board.GP16)
+display = adafruit_displayio_ssd1306.SSD1306(display_bus, width=128, height=64)
+
+
+altitude_list = []
+with open("/data.csv", "a") as fp:
+    while True:
+        altitude_list.append(sensor.altitude)
+        print ("Max value element : ", max(altitude_list))
+        max(altitude_list)
+        print ("")
+        splash = displayio.Group()
+        title = "HIGHEST ALTITUDE"
+        text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=5)
+        splash.append(text_area)  
+        display.show  
+        #title = str(max(altitude_list))
+        #text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=20)
+        splash.append(text_area) 
+        display.show(splash)
+        storage.remount("/", switch.value)
+        fp.write(f"{time.monotonic()}, {sensor.altitude}\n")
+        fp.flush()
+
+```
