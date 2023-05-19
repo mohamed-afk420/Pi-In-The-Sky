@@ -94,20 +94,27 @@ On Tursday we've completed all of the code and soldered the switch on the circui
 
 ```python
 
+# SPDX-FileCopyrightText: 2019 Tony DiCola for Adafruit Industries
+# SPDX-License-Identifier: MIT
+
+# Simple demo of the MPL3115A2 sensor.
+# Will read the pressure and temperature and print them out every second.
+# type: ignore
 import time
 import board
 import adafruit_displayio_ssd1306
-import adafruit_mpl3115a2
+import mpl3115a2_highspeed
 import busio
 import terminalio
 import displayio
 from adafruit_display_text import label
+import storage
 
 displayio.release_displays()
 sda_pin0 = board.GP0
 scl_pin0 = board.GP1
 i2c0 = busio.I2C(scl_pin0, sda_pin0)
-sensor = adafruit_mpl3115a2.MPL3115A2(i2c0)
+sensor = mpl3115a2_highspeed.MPL3115A2(i2c0)
 sensor.sealevel_pressure = 102250
 
 sda_pin1 = board.GP14
@@ -125,6 +132,7 @@ with open("/data.csv", "a") as fp:
     while True:
         altitude_list.append(sensor.altitude)
         print ("Max value element : ", max(altitude_list))
+        print ("current altitude : ", sensor.altitude)
         max(altitude_list)
         print ("")
         splash = displayio.Group()
@@ -132,11 +140,10 @@ with open("/data.csv", "a") as fp:
         text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=5)
         splash.append(text_area)  
         display.show  
-        #title = str(max(altitude_list))
-        #text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=20)
+        title = str(max(altitude_list))
+        text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=20)
         splash.append(text_area) 
         display.show(splash)
-        storage.remount("/", switch.value)
         fp.write(f"{time.monotonic()}, {sensor.altitude}\n")
         fp.flush()
 
