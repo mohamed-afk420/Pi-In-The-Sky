@@ -164,6 +164,7 @@ import board
 import digitalio
 import storage
 
+
 write_pin = digitalio.DigitalInOut(board.GP21)
 write_pin.direction = digitalio.Direction.INPUT
 write_pin.pull = digitalio.Pull.UP
@@ -173,3 +174,5 @@ if not write_pin.value:
     storage.remount("/", readonly=False)
 
 ```
+
+![data](https://github.com/mohamed-afk420/Pi-In-The-Sky/blob/2464e9d4d62192b356ebb3826cfdcb23d334499b/images/data.csv)
