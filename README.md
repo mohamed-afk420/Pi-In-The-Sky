@@ -92,11 +92,11 @@ We finished the soldering and everything works, all we have to do is assemble th
 ## 5/8/23-5/12/23
 On Tursday we've completed all of the code and soldered the switch on the circuitboard. Everything is complete and the data is on the spreadsheet, Tomorrow we'll launch the rocket and get better results. 
 ## 5/15/23-5/19/23
-
+We added our means of capturing data, and are ready to launch next week. 
 ## 5/22/23-5/26/23
-
+We launched and were unable to capture our data correctly. we talked with Mr. Miller and figured it out, and are ready for next weeks launches. 
 ## 5/29/23-6/2/23
-
+we launched one last time, and were able to capture our data correctly. We put our data into our github. 
 ## 6/5/23-6/9/23
 
 ```python
@@ -182,4 +182,5 @@ if not write_pin.value:
 
 ```
 
+## Data
 ![data](https://github.com/mohamed-afk420/Pi-In-The-Sky/blob/2464e9d4d62192b356ebb3826cfdcb23d334499b/images/data.csv)
