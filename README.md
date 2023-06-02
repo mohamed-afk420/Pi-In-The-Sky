@@ -38,6 +38,7 @@ We've been launching the bottle rocket for a few days and it's been going well, 
 ![new](images/new.png)
 We are adding better and more affective wings, helping with wobble and with hieght, and they're going to be 3D printed ring to fit around the bottle with slits to slide in disposible cardboard wings. We hope that the ring doesn't break when it hits the ground, considering its been an issue with others projects. 
 # Present finished product
+![done2](images/done2.png) This is the final design of the rocket that we've been launching for the past two weeks.
 # Flight Ready by Spring Break
 Milestone Criteria:
 Code: Your code is complete to a point where it can successfully run during the flight, collect data, and save that data to a file onboard the RPi Pico. 
