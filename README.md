@@ -19,7 +19,9 @@ At first we were planning on going on onshape and building a 2 liter bottle out 
 # Bill of materials for the overall project
 two 2 liter soda bottles, Circuit board, Duct tape, card boards for the wings and parachuete made with plastic bag and strings. (prototype)
 
-Two 2 liter soda bottles, circuit board, duct tape, 3D modeled and designed wings with screw holes, plastic and strings for our parachute. (main  design) BMP180 for altitute and an OLED screen so show the altitude.
+Two 2 liter soda bottles, circuit board, duct tape, 3D modeled and designed wings with screw holes, plastic and strings for our parachute. (second design) BMP180 for altitute and an OLED screen so show the altitude.
+
+(FINAL) two liter soda bottles, circuit board, duct tape, trash bag as the parachute and strings. An Altimeter to measure altitute, an OLED to display the numbers and a lightboost to make the project more mobile.
 # Risk Mitigation
 One big risk is the project being too heavy or just not working. Again, I've never seen an engineering project in which a 2 liter bottle is being used so I don't know how this is going to work out for sure. We were going to use a little water bottle but we need more space so I think that solved one problem. We have the space now, It's just things might move around more because there's lots of space and it probably won't stay still. Risk mitigation may include making sure there is enough open space around the launch, making sure everyone involved has the proper PPE (ex: safety glasses), or even that the materials (rocket motors, hairspray, etc) are stored safely.
 
